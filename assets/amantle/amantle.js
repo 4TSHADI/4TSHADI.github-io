@@ -1,6 +1,6 @@
 /*!
 =========================================================
-* JohnDoe Landing page
+* amantle Landing page
 =========================================================
 
 * Copyright: 2019 DevCRUD (https://devcrud.com)
