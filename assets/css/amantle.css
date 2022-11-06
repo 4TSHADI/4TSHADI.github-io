@@ -11183,7 +11183,7 @@ p {
       -ms-flex-preferred-size: 0;
           flex-basis: 0;
   display: block;
-  color: #212529;
+  color: #363edc;
   font-size: 13px;
   font-weight: 500;
   opacity: .7;
@@ -11206,7 +11206,7 @@ p {
 
 .portfolio .filters a.active {
   opacity: 1;
-  background: #8b5cf8;
+  background: #3c94c0;
   color: #fff;
 }
 
@@ -11314,7 +11314,7 @@ p {
 
 .blog-card .content-holder .post-details a {
   margin-right: 10px;
-  color: #444;
+  color: #0877ab;
   text-decoration: none;
   display: inline-block;
   font-weight: 600;
@@ -11362,7 +11362,7 @@ pre {
 
 pre code,
 pre .code {
-  color: #6c757d;
+  color: #0a6ef1;
 }
 
 .dropdown-menu.form {
@@ -11388,7 +11388,7 @@ pre .code {
 }
 
 .social-icons .social-link:hover {
-  color: #8b5cf8;
+  color: #194b4d;
 }
 
 .navbar {
