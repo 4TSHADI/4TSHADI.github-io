@@ -11682,3 +11682,45 @@ pre .code {
   display: block;
   margin-top: 10px;
 }
+
+.selected {
+  text-decoration:underline;
+}
+span{
+  cursor:pointer;
+}
+
+input[type=radio] {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+label {
+  display: block;
+  background: #5f6bc4;
+  padding: 5px;
+  border: 1px solid #79A9F5;
+  border-radius: 2px;
+  color: #79A9F5;
+  font-weight: bold;
+}
+
+#padding{
+  padding-top:150px;
+}
+.imghide{
+  display:none;
+  position:absolute;
+  top:0px;
+  left:0px;
+}
+#radioimage1:checked ~ #image1 {
+  display:block;
+}
+#radioimage2:checked ~ #image2 {
+  display:block;
+}
+#radioimage3:checked ~ #image3 {
+  display:block;
+}
