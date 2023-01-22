@@ -141,10 +141,11 @@ header .logo img {
 
 .banner .content p {
     font-size: 1em;
-    font-weight: 300;
+    font-weight: 700;
     line-height: 1.5em;
     color: rgb(3, 29, 65);
     margin: 10px 0 20px;
+    margin-right: 40%;
 }
 
 .banner .content .buttons {
