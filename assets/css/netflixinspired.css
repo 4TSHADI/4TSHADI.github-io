@@ -25,7 +25,9 @@ header {
 }
 
 header .logo img {
-    max-width: 150px;
+    max-width: 15%;
+    margin-left: 100%;
+    margin-top: 10%;
 }
 
 .navigation {
